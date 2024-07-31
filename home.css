@@ -1,0 +1,153 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #302d2d;
+}
+
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    background-color: #ffffff;
+    color: #fff;
+    padding: 10px;
+    position: fixed;
+    border-radius: 50px;
+    margin-left: 34px;
+    width: 150px;
+    height: 620px;
+    align-items: center;
+    margin-top: 15px;
+    border: 5px solid slateblue;
+
+}
+
+
+
+#logoimg{
+    width:120px;
+    height: 120px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    border-radius: 50%;
+    margin-left: 30px;
+}
+
+
+
+
+.items {
+    color: slateblue;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+#header {
+    display: flex;
+    border-radius: 2%;
+    background-color: white;
+    border: 5px solid greenyellow;
+    
+}
+
+h1{
+    display: block;
+    
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(61, 116, 61);
+    display: flex;
+    justify-content: center;
+
+    
+}
+
+#sub{
+    display: flex;
+}
+
+#members{
+    display: flex;
+    width: 1150px;
+    padding: 10px;
+    flex-direction: column;
+    margin-top: 25px;
+    background-color: white;
+    margin-left: 300px;
+    border-radius: 5%;
+    border: 5px solid slateblue;
+
+
+}
+
+.Mihir{
+    display: flex;
+    padding-left: 20px;
+    align-items: center;
+}
+
+.Kaushik{
+    display: flex;
+    padding-left: 20px;
+    align-items: center;
+}
+
+.Sashank{
+    display: flex;
+    padding-left: 20px;
+    align-items: center;
+}
+
+.Dabs{
+    display: flex;
+    padding-left: 20px;
+    align-items: center;
+}
+
+.portrait{
+    width: 150px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+h2{
+    font-size: 22px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: slateblue;
+
+}
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(169, 100, 230);
+
+}
+#kdesc{
+display: flex;
+justify-content: flex-start;
+}
+
+hr{
+    color: black;
+}
+
+#image2{
+    border-radius: 50%;
+    width: 200px;
+    height: 150px;
+}
+
+
+hr {
+    border: 0;
+    border: 2px dotted black;
+    height: 2px;
+    margin: 20px 0; 
+}
